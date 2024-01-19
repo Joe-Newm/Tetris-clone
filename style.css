@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background-color: white;
+
+}
+
+#my-canvas {
+    background-color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+    width:  50%;
+    height: 50%;
+    margin: 0;
+}
